@@ -2,7 +2,7 @@
 
 ![cover](resources/cover.png)
 
-Project is still in it's development stage. Project is being done by five Undergraduates of University of Moratuwa.
+Project is still in it's development stage. Project is being done by a group of five Undergraduates of University of Moratuwa.
 
 ---
 
