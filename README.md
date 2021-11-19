@@ -27,6 +27,35 @@ In this section we are experimenting, how we can retrieve the spatial sounds in 
 * You can use mouse and keyboard to move around the virtual world,
 * You also can edit the `C#` script and experiment.
 
+
+* ### Voice Support System Development
+
+In here we have developed two models, namely the text-to-speech model and the speech-to-text model.  
+
+* #### Text-to-speech Model
+
+We have developed an offline model to convert a given list of names into voice. 
+
+#### Dependencies
+
+* `python 3.8`
+* `numpy`
+* `pyttsx3`
+* [`Visual Studio 2019`](https://visualstudio.microsoft.com/downloads/?ranMID=46131&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA&epi=a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA&irgwc=1&OCID=AID2200057_aff_7806_1243925&tduid=%28ir__yrmagxm2zkkfqj03kk0sohzz2n2xrobk06cknoqo00%29%287806%29%281243925%29%28a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA%29%28%29&irclickid=_yrmagxm2zkkfqj03kk0sohzz2n2xrobk06cknoqo00) or higher version
+
+* #### Speech-to-text Model
+
+This model works in online state and will convert the given voice commands into text. 
+
+#### Dependencies
+
+* `python 3.8`
+* `numpy`
+* `speech_recognition`
+* `pyaudio`
+* [`Visual Studio 2019`](https://visualstudio.microsoft.com/downloads/?ranMID=46131&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA&epi=a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA&irgwc=1&OCID=AID2200057_aff_7806_1243925&tduid=%28ir__yrmagxm2zkkfqj03kk0sohzz2n2xrobk06cknoqo00%29%287806%29%281243925%29%28a1LgFw09t88-aDMGrjLFAVkUttxQ5pYnBA%29%28%29&irclickid=_yrmagxm2zkkfqj03kk0sohzz2n2xrobk06cknoqo00) or higher version
+
+
 ---
 
 ## Team : Team Lumos
